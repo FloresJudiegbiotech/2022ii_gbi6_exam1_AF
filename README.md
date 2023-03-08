@@ -5,7 +5,7 @@ El logo de Bash Scripting:
 
 - **Curso** : Bioinformática 
 - **Nombre**: Angélica Flores 
-- **Edad** : 21 años
+- **Edad** : 22 años
 - **Ciudad de nacimiento** : Tena 
 
 Datos de su equipo en forma de tabla.
